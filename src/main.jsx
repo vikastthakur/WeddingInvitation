@@ -143,7 +143,7 @@ function App() {
         </div>
         <div className="contact-panel">
           <h3>Contact for RSVP</h3>
-          <a href="tel:+919999999999"><Phone size={18} />+91 99999 99999</a>
+          <a href="tel:+918941963741"><Phone size={18} />+91 89419 63741</a>
           <a href={`https://wa.me/?text=${whatsappText}`}><MessageCircle size={18} />WhatsApp RSVP</a>
           <p><Gift size={18} />Blessings only, your presence is enough.</p>
         </div>
