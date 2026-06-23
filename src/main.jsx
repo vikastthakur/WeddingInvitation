@@ -26,7 +26,7 @@ const couple = {
 const events = [
   {
     title: 'Haldi',
-    date: '16 February 2027',
+    date: '18 November 2026',
     time: '10:00 AM',
     place: 'Bride Residence Lawn',
     tone: 'Turmeric yellow dress code',
@@ -34,7 +34,7 @@ const events = [
   },
   {
     title: 'Mehndi',
-    date: '16 February 2027',
+    date: '19 November 2026',
     time: '6:30 PM',
     place: 'Courtyard Hall',
     tone: 'Green, music and dhol night',
@@ -42,7 +42,7 @@ const events = [
   },
   {
     title: 'Sangeet',
-    date: '17 February 2027',
+    date: '20 November 2026',
     time: '7:00 PM',
     place: 'Crystal Ballroom',
     tone: 'Dance, dinner and family performances',
@@ -50,7 +50,7 @@ const events = [
   },
   {
     title: 'Wedding Ceremony',
-    date: '18 February 2027',
+    date: '21 November 2026',
     time: '8:15 PM',
     place: 'Royal Garden Palace',
     tone: 'Traditional pheras followed by blessings',
@@ -58,7 +58,7 @@ const events = [
   },
   {
     title: 'Reception Dinner',
-    date: '19 February 2027',
+    date: '22 November 2026',
     time: '7:30 PM',
     place: 'Lotus Banquet',
     tone: 'Dinner, greetings and photographs',
